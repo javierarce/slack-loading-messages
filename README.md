@@ -40,7 +40,7 @@ by Gilbert H. Grosvenor
 * `Everything is related to everything else, but near things are more related than distant things.`  
 [Tobler's first law of geography](http://en.wikipedia.org/wiki/Tobler's_first_law_of_geography)
 
-* `Hic Sunt Dracones` 
+* `Hic Sunt Dracones`   
 [Here be dragons](http://en.wikipedia.org/wiki/Here_be_dragons)
 
 * `Stand in the place where you live / Now face North / Think about direction / Wonder why you haven't before` 
