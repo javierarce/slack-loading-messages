@@ -24,23 +24,30 @@ http://en.wikipedia.org/wiki/Turtles_all_the_way_down
 `Remember: no matter where you go, there you are.`  
 http://www.figmentfly.com/bb/popculture4.html
 
+`Without geography, you're nowhere!`  
+by Jimmy Buffett	
 
-> "Without geography, you're nowhere!" — Jimmy Buffett	
+`our earth is a globe /  
+whose surface we probe /
+no map can replace her/
+but just try to trace her`     
+by Steve Waterman (http://www.watermanpolyhedron.com/worldmap.html)
+ 
+`Everything happens somewhere.`  
+by Doctor Who
 
-> our earth is a globe / whose surface we probe / no map can replace her / but just try to trace her 
+`A map is the greatest of all epic poems. Its lines and colors show the realization of great dreams.`  
+by Gilbert H. Grosvenor
 
-> Everything happens somewhere.
+`Everything is related to everything else, but near things are more related than distant things.`  
+[Tobler's first law of geography](http://en.wikipedia.org/wiki/Tobler's_first_law_of_geography)
 
-> A map is the greatest of all epic poems. Its lines and colors show the realization of great dreams.	
+`Hic Sunt Dracones` 
+[Here be dragons](http://en.wikipedia.org/wiki/Here_be_dragons)
 
-> Everything is related to everything else, but near things are more related than distant things	
+`Stand in the place where you live / Now face North / Think about direction / Wonder why you haven't before` 
+from Stand, by R.E.M
 
-> Hic Sunt Dracones	
-
-> A map a day keeps the doctor away
-
-> Stand in the place where you live / Now face North / Think about direction / Wonder why you haven't before	
-
-> Look to the future & leave the past behind	
-
+`Look to the future & leave the past behind`  
+by @xavijam
 
