@@ -1,8 +1,8 @@
 
-The other day I decided to replace the Slack loading messages that we see in CartoDB with other with a geographic/cartographic flavor:
+Geo-flavored loading messages that I set up in our CartoDB Slack account:
 
 * Not all those who wander are lost.	
-* In that Empire, the Art of Cartography attained such Perfection that the map of a single Province occupied the entirety of a City.	javier	Nov 05, 2014	
+* In that Empire, the Art of Cartography attained such Perfection that the map of a single Province occupied the entirety of a City.		
 * "X" marks the spot.	
 * Stand in the place where you live / Now face North / Think about direction / Wonder why you haven't before	
 * Look to the future & leave the past behind	
