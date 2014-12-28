@@ -1,5 +1,5 @@
 
-Geo-flavored loading messages that I set up in our CartoDB Slack account:
+Geo-flavored loading messages that I set up in our CartoDB Slack account. If you have suggestions, please send them in!
 
 * `Geographers never get lost. They just do accidental field work.`   
 by Nicholas Chrisman.
@@ -47,4 +47,4 @@ by Gilbert H. Grosvenor
 from Stand, by R.E.M
 
 * `Look to the future & leave the past behind`  
-by @xavijam
+by [@xavijam](https://github.com/xavijam)
