@@ -2,17 +2,19 @@
 Geo-flavored loading messages that I set up in our CartoDB Slack account:
 
 
-`Geographers never get lost. They just do accidental field work.`  
+`Geographers never get lost. They just do accidental field work.`   
 By Nicholas Chrisman.
 
-`Geography is just physics slowed down, with a couple of trees stuck in it.` 
+`Geography is just physics slowed down, with a couple of trees stuck in it.`  
 By Terry Pratchett in The Last Continent.
 
 
-`Not all those who wander are lost.` 
+`Not all those who wander are lost.`  
 A line from the poem *All that is gold does not glitter*, by J. R. R. Tolkien for The Lord of the Rings.
 
-> In that Empire, the Art of Cartography attained such Perfection that the map of a single Province occupied the entirety of a City.		
+`In that Empire, the Art of Cartography attained such Perfection that the map of a single Province occupied the entirety of a City.`  
+From "Del rigor en la ciencia" by Jorge Luis Borges.
+
 
 > "X" marks the spot.	
 
